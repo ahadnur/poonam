@@ -79,3 +79,4 @@ console.log(str11.includes("name"));
 
 // create as much as variables you can with let, var and const. Must have to be const in your code.
 // Apply all the methods with your string..
+
