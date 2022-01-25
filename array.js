@@ -112,3 +112,52 @@ let obj = {
 }
 
 // THIS IS THE STORY
+
+/*
+    Let's play a game.
+    You have a class of students. Number of students are not defined. Students name is not defined. Now complete the tasks
+        1. Now create an array of students ( name and numbers of students must be greater than 5).
+        2. Print the length of the array in the console.
+        3. Create another array of students with new Keyword
+        4. Print the length of the current array in the console
+        5. Find the differences between normal array and array with new method
+        6. Sort the first array and print in the console like this (first character of the name must be capital letter):
+            Sorted Students Name:
+            1: name1
+            2: name2
+            3: name3
+            ...
+        7. Reverse the array and print in the console like this (first character of the name must be capital letter):
+            Reversed Students Name:
+            1. name1
+            2. name2
+            3. name3
+            ...
+    
+    Now you do take care of backbencher students. Let's check their exam papers first:
+        8. Call the last student and print the name in the console:
+            Hey [name], you did a greate job.
+    
+        9. At this time a new student just join the class. Now add him/her to the array at the last. And print the array Like this:
+            New student joined the class.
+            Name is: [student name]
+
+    Now you have changed your mind. You want to call from the first.
+        10. Now call the first student of the class and print this to the console. Like this:
+            Hey [name], you did as expectd.
+        11. Now replace his place with another student and print the array to the console.
+        12. Now create two groups of students with two array. And print the arrays in the console like this:
+            Group Alpha: [name, name, name, ...]
+            Group Beta: [name, name, name, ...]
+        13. Now merge these two arrays into a single one and print the array to the console like this:
+            Merged Groups: [name, name, ...]
+    Now 3 students want's to leave the class.
+        14. Now print 3 students name from the second name like this:
+            These students will leave today:
+            name1
+            name2
+            name3
+    
+    // this is all for todays story.. will continue next time...
+
+*/
